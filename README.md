@@ -42,7 +42,7 @@ Big thanks to [Alexandra](https://t.me/AlexandraUstyuzhaninova) for their help w
 
 ## CPU heat dissipation testing
 ```console
-openssl speed -multi $(grep -ci processor /proc/cpuinfo) && openssl speed -multi $(grep -ci processor /proc/cpuinfo)
+openssl speed -multi $(grep -ci processor /proc/cpuinfo)
 ```
 <img src="./images/load_testing_temperature.png" width="512"/>
 
