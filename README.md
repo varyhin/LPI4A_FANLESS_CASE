@@ -5,7 +5,7 @@ Big thanks to [Alexandra](https://t.me/AlexandraUstyuzhaninova) for their help w
 
 ## Model full view
 <p float="left">
-    <img src="./images/LPI4A_FANLESS_CASE_BACK.jpg" width="256"/>
+    <img src="./images/LPI4A_FANLESS_CASE_BACK.png" width="256"/>
     <img src="./images/LPI4A_FANLESS_CASE_FRONT.png" width="256"/>
 </p>
 
