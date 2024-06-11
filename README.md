@@ -1,5 +1,5 @@
-# LPI4A_FANLESS_CASE
-Fanless case for sipeed LPI4A board  
+# Fanless case for sipeed LPI4A board  
+
 Big thanks to [Alexandra](https://t.me/AlexandraUstyuzhaninova) for their help with the 3D models!
 
 
