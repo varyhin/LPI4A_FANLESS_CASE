@@ -35,13 +35,15 @@ Big thanks to [Alexandra](https://t.me/AlexandraUstyuzhaninova) for their help w
 
 
 ## Images of a near-final prototype
-
 <p float="left">
     <img src="./images/LPI4A_FANLESS_CASE_FRONT_PHOTO.jpg" width="256"/>
     <img src="./images/LPI4A_FANLESS_CASE_BACK_PHOTO.jpg" width="256"/>
 </p>
 
 ## CPU heat dissipation testing
+```console
+openssl speed -multi $(grep -ci processor /proc/cpuinfo) && openssl speed -multi $(grep -ci processor /proc/cpuinfo)
+```
 <img src="./images/load_testing_temperature.png" width="512"/>
 
 
