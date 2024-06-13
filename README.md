@@ -44,6 +44,6 @@ Big thanks to [Alexandra](https://t.me/AlexandraUstyuzhaninova) for their help w
 ```console
 openssl speed -multi $(grep -ci processor /proc/cpuinfo)
 ```
-<img src="./images/load_testing_temperature.png" width="512"/>
+<img src="./images/load_testing_temperature.png" width="800"/>
 
 
